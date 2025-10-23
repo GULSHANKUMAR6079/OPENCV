@@ -212,6 +212,6 @@ Created based on WsCube Tech curriculum
 Includes Google MediaPipe for modern ML-based computer vision solutions
 
 Last Updated: October 2025
-Maintained by: [Your GitHub Username]
+Maintained by: [GULSHANKUMAR6079]
 
 For questions or suggestions, please open an issue or submit a pull request.
